@@ -17,7 +17,7 @@
 
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Killersparrow0&repo=YT-tag-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Killersparrow0&repo=YT-tag-bot&theme=dark )
 
 
 ### Credits 
