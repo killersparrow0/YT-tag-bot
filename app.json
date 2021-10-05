@@ -1,0 +1,38 @@
+{
+    "name": "TagFinderBot",
+    "description": "Simple youtube tags finder bot",
+    "repository": "https://github.com/Killersparrow0/YT-tag-bot",
+    "keywords": [
+        "youtubebot",
+        "tagfinder",
+        "telegram bot",
+        "pyrogram"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Bot token from @Botfather"
+            "required": true,
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Your API_ID from https://my.telegram.org/apps"
+            "required": true,
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "required": true,
+            "value": ""
+        },
+        "CHANNEL_ID": {
+            "description": "Add @rosebot as admin your channel and get id."
+            "required": true,
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
